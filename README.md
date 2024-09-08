@@ -1,5 +1,7 @@
 ## Experiment 2:Implementation of Exact Inference Method of Bayesian Network
-
+## Name: Shavedha Y
+## Register No.: 212221230095
+## Date: 02.09.2024
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
